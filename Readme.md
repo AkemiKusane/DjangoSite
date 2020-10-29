@@ -1,7 +1,8 @@
 
 # Python Django web application
 
-Sample Python Django web application built using Visual Studio 2017.\t
+Sample Python Django web application built using Visual Studio 2017.
+
 For Someone dunce teacher and his smart Students.
 
 ## License:
